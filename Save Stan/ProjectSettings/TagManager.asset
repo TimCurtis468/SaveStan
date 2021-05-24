@@ -50,3 +50,9 @@ TagManager:
   - name: Player
     uniqueID: 1214349883
     locked: 0
+  - name: Water
+    uniqueID: 3731302043
+    locked: 0
+  - name: TilemapFront
+    uniqueID: 1642126377
+    locked: 0
